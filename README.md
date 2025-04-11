@@ -6,7 +6,7 @@
 |2 | 姓名 | 鄭穎丞 |
 |3 | 職稱 | 學生 |
 
-<a href="https://www.youtube.com/watch?v=tcGwXRk-U0E" target="_blank"><img src="https://i.ytimg.com/vi/tcGwXRk-U0E/hqdefault.jpg?s…BACGAY4AUAB&rs=AOn4CLDtvUnHA3P7DlfA9aCTe8kVL0eVVQ">
+<a href="https://www.youtube.com/watch?v=tcGwXRk-U0E" target="_blank"><img src="https://i.ytimg.com/vi/7sVjTIE9fXs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCQp2vr4khTdEND_8sKH14tbX6cfw">
 
 <details>
 <summary>
