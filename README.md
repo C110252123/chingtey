@@ -17,7 +17,7 @@
 
 <details>
 <summary>
-<H1>本學期有修APP行動商務課程之學習成果</H1>
+<H1>APP行動商務課程之學習成果</H1>
 </summary>
   暫無
 </details>
